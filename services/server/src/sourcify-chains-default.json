@@ -1504,7 +1504,7 @@
     "supported": true,
     "fetchContractCreationTxUsing": {
       "blockscoutScrape": {
-        "url": "https://phoenixplorer.com"
+        "url": "https://phoenixplorer.com/"
       }
     }
   }
